@@ -1,3 +1,2 @@
-# Dicas_de_python
-
-Esse repositório contém pequenos snnipets para dicas gerais da linguagem `python`.
+# PyTricks
+Here you can find simple python snipets. If you want to know more, please [visit my personal website](www.doctorwho.com.br)
